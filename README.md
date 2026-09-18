@@ -1,6 +1,6 @@
-#Three-LAN Network Design & Static Routing
+# Three-LAN Network Design & Static Routing
 
-##Project Overview
+## Project Overview
 
 This project is a Cisco Packet Tracer lab demonstrating connectivity between three separate IPv4 LANs using three routers and static routing.
 
